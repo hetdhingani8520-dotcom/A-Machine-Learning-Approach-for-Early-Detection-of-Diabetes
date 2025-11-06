@@ -17,4 +17,7 @@ i) SVM
 
 ![WhatsApp Image 2025-11-06 at 13 41 28_8af39ba6](https://github.com/user-attachments/assets/6eb9e715-5e2d-4d56-af09-175b2511b995)
 
+## License
+- Code: MIT License  
+- Research Paper: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
